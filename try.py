@@ -725,14 +725,11 @@ def main():
         This advanced stock market analysis tool combines:
         - Real-time market data analysis
         - AI-powered insights and predictions
-        - Technical and fundamental analysis
-        - News and sentiment analysis
         - Interactive charts and visualizations
         
         Features:
         - Support for both US and Indian markets (NSE/BSE)
         - Company name and symbol resolution
-        - Watchlist management
         - Multiple timeframe analysis
         - Technical indicators
         
